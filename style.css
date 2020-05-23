@@ -1,0 +1,75 @@
+body {
+	background: #b2b2a5 url('fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+div ul {
+	display: flex;
+	padding: 0;
+	background-color: #b2b2a5;
+	width: 900px;
+	margin: 0;
+	padding-top: 18px;
+	padding-bottom: 18px;
+
+}
+
+div ul li {
+	list-style-type: none;
+	font-family: "Arial", Arial, serif;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+div ul li a {
+	text-decoration: none;
+	
+
+}
+
+#box-body{
+	background-color: white;
+	width: 900px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+
+}
+
+
+#box-body .titulo {
+	font-size: 20px;
+	color: #b2b2a5;
+	font-family: "Arial", Arial, serif;
+	font-weight: bold;
+	margin-left: 10px;
+	padding-top: 10px;
+
+}
+
+#box-body .sobre {
+	font-family: "Arial", Arial, serif;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#rodape p {
+	width: 900px;
+	text-align: center;
+	font-size: 16px;
+}
+
+#box-body img{
+	border: 10px solid #d4d8c0;
+	display: block;
+	margin: auto;
+} 
+
+#dados {
+	margin-left: 10px;
+	font-family: "Arial", Arial, serif;
+	
+}
+
